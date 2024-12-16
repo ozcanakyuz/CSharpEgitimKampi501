@@ -16,5 +16,6 @@ namespace CSharpEgitimKampi501
         {
             InitializeComponent();
         }
+
     }
 }
