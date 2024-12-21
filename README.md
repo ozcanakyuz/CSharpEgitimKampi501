@@ -6,14 +6,16 @@ Bu proje, **CSharp Eğitim Kampı 501** kapsamında Dapper ORM kullanılarak gel
 
 Proje aşağıdaki işlevleri içermektedir:
 
-1. **Listeleme**: SQL veritabanında bulunan ürünlerin bir tablo üzerinde listelenmesi.
-2. **Ekleme**: Kullanıcı tarafından yeni bir ürünün veritabanına eklenmesi.
-3. **Silme**: Seçilen ürünün veritabanından silinmesi.
-4. **Güncelleme**: Mevcut bir ürünün bilgilerini düzenleme.
-5. **Etiketler (Labels)**:
-   - Toplam kitap sayısını gösterme.
-   - En pahalı kitabın adını ve fiyatını gösterme.
-   - Kategori sayısını gösterme.
+1. **CRUD İşlemleri:**
+   - **Listeleme:** Veritabanındaki ürünleri bir tabloda görüntüleyin.
+   - **Ekleme:** Yeni bir ürün ekleyin.
+   - **Silme:** Mevcut bir ürünü veritabanından silin.
+   - **Güncelleme:** Bir ürünün bilgilerini düzenleyin.
+
+2. **Label Bilgileri:**
+   - **Kitap Sayısı:** Veritabanındaki toplam ürün sayısını görüntüler.
+   - **En Pahalı Kitap:** En yüksek fiyatlı kitabın adını ve fiyatını görüntüler.
+   - **Kategori Sayısı:** Veritabanında bulunan toplam kategori sayısını görüntüler.
 
 ## Kullanılan Teknolojiler
 
